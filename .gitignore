@@ -1,3 +1,4 @@
 .DS_Store
+.ipynb_checkpoints/
 DATA/.DS_Store
 DATA/glove.6B.50d.txt
